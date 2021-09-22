@@ -6,7 +6,7 @@
 	nano README.
 
 3. insialisasi folder tersebut dengan Git, kemudian dokumentasikan menggunakan commit dengan pesan "Inisialisasi Git Repository"
-	git init .
+	git init 
 	git add .
 	git commit -m "Inisialisasi Git Repository"
 
